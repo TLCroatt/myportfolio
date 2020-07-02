@@ -8,10 +8,23 @@ body {
 
 .container {
     background-color: snow;
+    max-width: 800px;
     margin: 20px auto;
     padding: 50px;
 }
 
+.clearfix {
+    overflow: auto;
+}
+
 h1 {
     margin-bottom: 50px;
+}
+
+img {
+    float: left;
+    margin-right: 30px; 
+}
+
+p {
 }
