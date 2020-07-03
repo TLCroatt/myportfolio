@@ -13,20 +13,16 @@ body {
     padding: 50px;
 }
 
-.clearfix {
-    overflow: auto;
-}
-
 h1 {
     margin-bottom: 50px;
 }
 
 img {
-    float: left;
-    margin-right: 30px; 
+    
 }
 
 p {
+    margin-top: 20px;
 }
 
 footer {
