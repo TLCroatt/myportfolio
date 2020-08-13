@@ -1,5 +1,12 @@
 body {
+    background-image: url("assets/woodgrain.jpg");
     background-color: lightgray;
+}
+
+
+.navbar {
+    background-color: #009e89;
+    background-image: url("https://www.transparenttextures.com/patterns/beige-paper.png");
 }
 
 .navbar-brand {
@@ -7,7 +14,9 @@ body {
 }
 
 .container {
+    background-image: url("assets/509.jpg");
     background-color: snow;
+    border-radius: 25px;
     max-width: 800px;
     margin: 20px auto;
     padding: 50px;
@@ -17,8 +26,14 @@ h1 {
     margin-bottom: 50px;
 }
 
-p {
-    margin-top: 20px;
+
+
+.card, .card-img-top {
+    border-radius: 25px;
+}
+
+#img {
+    border-radius: 25px;
 }
 
 #social {
@@ -27,6 +42,7 @@ p {
 
 footer {
     text-align: center;
+    color: white;
     margin-top: 50px;
     padding: 20px;
 }
