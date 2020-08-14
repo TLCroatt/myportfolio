@@ -2,48 +2,14 @@
 Welcome to my porfolio! I am a web development student at University of Denver, and these are a few of my creations.
 
 ## Table of contents
-* [General info](#general-info)
 * [Screenshots](#screenshots)
-* [Technologies](#technologies)
-* [Setup](#setup)
-* [Features](#features)
-* [Status](#status)
-* [Inspiration](#inspiration)
-* [Contact](#contact)
-
-## General info
-
+* [Links](#links)
 
 ## Screenshots
-![Example screenshot](./img/screenshot.png)
+<img width="800" alt="Portfolio" src="https://user-images.githubusercontent.com/66500773/90277037-19b88980-de22-11ea-9b94-45cd1d0cd0b1.png">
+<img width="800" alt="Portfolio_About_Me" src="https://user-images.githubusercontent.com/66500773/90277418-c85cca00-de22-11ea-8f16-f739722a5a7c.png">
+<img width="800" alt="Porfolio_Contact" src="https://user-images.githubusercontent.com/66500773/90277443-df032100-de22-11ea-9e45-36e01cea2b79.png">
 
-## Technologies
-* Tech 1 - version 1.0
-* Tech 2 - version 2.0
-* Tech 3 - version 3.0
-
-## Setup
-Describe how to install / setup your local environement / add link to demo version.
-
-## Code Examples
-Show examples of usage:
-`put-your-code-here`
-
-## Features
-List of features ready and TODOs for future development
-* Awesome feature 1
-* Awesome feature 2
-* Awesome feature 3
-
-To-do list:
-* Wow improvement to be done 1
-* Wow improvement to be done 2
-
-## Status
-Project is: _in progress_, _finished_, _no longer continue_ and why?
-
-## Inspiration
-Add here credits. Project inspired by..., based on...
-
-## Contact
-Created by [@flynerdpl](https://www.flynerd.pl/) - feel free to contact me!
+## Links
+deployed page: https://tlcroatt.github.io/myportfolio/
+github repository: https://github.com/TLCroatt/myportfolio
