@@ -11,5 +11,5 @@ Welcome to my porfolio! I am a web development student at University of Denver, 
 <img width="800" alt="Porfolio_Contact" src="https://user-images.githubusercontent.com/66500773/90277443-df032100-de22-11ea-9e45-36e01cea2b79.png">
 
 ## Links
-deployed page: https://tlcroatt.github.io/myportfolio/
-github repository: https://github.com/TLCroatt/myportfolio
+[deployed page](https://tlcroatt.github.io/myportfolio/) \
+[github repository](https://github.com/TLCroatt/myportfolio)
